@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/fishbaby003/mytv/main/1_tvlive.txt",
+      "url": "https://gitee.com/bodyfish/mytv/raw/test/test/txt/%E9%9D%92%E6%9C%A8.txt",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     }
@@ -26,8 +26,8 @@
       "key": "直播转点播",
       "name": "📺︎┃电视┃直播",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/js/直播转点播2.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/直播.txt"
+      "api": "https://gitee.com/bodyfish/mytv/raw/test/test/js/zb.js",
+      "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/txt/zb.txt"
     },
     {
       "key": "freeok",
@@ -86,26 +86,6 @@
       "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
     },
     {
-      "key": "csp_Free",
-      "name": "🍃Free┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/json/Free%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_非凡",
-      "name": "🍃非凡┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/json/非凡资源网.json"
-    },
-    {
       "key": "奈飞影视",
       "name": "🍃鸭奈飞┃秒播",
       "type": 3,
@@ -124,46 +104,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/json/米爱影视.json"
-    },
-    {
-      "key": "csp_好戏",
-      "name": "🍃好戏┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/json/好戏影视.json"
-    },
-    {
-      "key": "csp_好戏",
-      "name": "🍃好戏┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/json/好戏影视.json"
-    },
-    {
-      "key": "csp_圣城",
-      "name": "🍃圣城┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/json/圣城影视.json"
-    },
-    {
-      "key": "csp_威士",
-      "name": "🍃威士┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/json/威士影视.json"
     },
     {
       "key": "兄弟",
@@ -281,43 +221,6 @@
         "战争片",
         "动作片",
         "喜剧片"
-      ]
-    },
-    {
-      "key": "sohu",
-      "name": "🍂搜狐┃影视",
-      "type": 1,
-      "api": "https://tvbox-1-g5221611.deta.app/vod/sohu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "parse:超级7"
-    },
-    {
-      "key": "搜狐资源",
-      "name": "️🍂搜狐┃资源  秒开",
-      "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
       ]
     },
     {
@@ -795,16 +698,6 @@
       "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/json/哔哩相声.json"
     },
     {
-      "key": "天下美食",
-      "name": "🅱天下┃美食",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/bodyfish/mytv/raw/test/test/json/%E5%93%94%E5%93%A9%E7%BE%8E%E9%A3%9F.json"
-    },
-    {
       "key": "戏曲杂苑",
       "name": "🅱戏曲┃杂苑",
       "type": 3,
@@ -816,7 +709,7 @@
     },
     {
       "key": "ext_live_protocol",
-      "name": "关注抖音小鱼科技整理：1月11号",
+      "name": "关注抖音小鱼科技，整理时间3月3日",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,

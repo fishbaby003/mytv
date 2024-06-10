@@ -709,7 +709,7 @@
     },
     {
       "key": "ext_live_protocol",
-      "name": "关注抖音小鱼科技，整理时间3月3日",
+      "name": "关注抖音小鱼科技，整理时间6月10日",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -718,7 +718,7 @@
     },
     {
       "key": "cc",
-      "name": "关注今日头条小鱼科技",
+      "name": "关注今日头条小鱼科技3",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,

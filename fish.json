@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitee.com/bodyfish/mytv/raw/test/test/txt/%E9%9D%92%E6%9C%A8.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/fishbaby003/mytv/main/1_tvlive.txt",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     }
